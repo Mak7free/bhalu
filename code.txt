@@ -1,0 +1,16 @@
+python3 --version
+Python 3.10.11PS 
+E:\bhalu> nano requirements.txt
+path\to\current\directory>
+user@address~# apt 
+~$ sudo 
+~# sudo !!!
+
+mkdir paapi_pet
+ls cd ..
+paapi_pet> python3 -m venv .venv
+paapi_pet> .venv/Scripts/Activate.ps1
+.venv
+  |-
+(.venv) paapi_pet> pip install requirement.txt
+
