@@ -5,7 +5,7 @@ path\to\current\directory>
 user@address~# apt 
 ~$ sudo 
 ~# sudo !!!
-
+testing git .
 mkdir paapi_pet
 ls cd ..
 paapi_pet> python3 -m venv .venv
